@@ -15,3 +15,4 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=thien0110.thien0110" />
 </h3>
 
+[![wakatime](https://wakatime.com/badge/user/4c5205d5-0274-4334-b3c3-f751cbdaaa5d.svg)](https://wakatime.com/@4c5205d5-0274-4334-b3c3-f751cbdaaa5d)
