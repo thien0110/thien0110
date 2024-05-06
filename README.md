@@ -11,8 +11,8 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=thien0110&show_icons=true&theme=bear" width = 400>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=thien0110&theme=dark&hide_border=true" width = 400>
 </div>
-<h3 align=center>        
+<!-- <h3 align=center>        
 <img src="https://visitor-badge.glitch.me/badge?page_id=thien0110.thien0110" />
-</h3>
+</h3> -->
 
 [![wakatime](https://wakatime.com/badge/user/4c5205d5-0274-4334-b3c3-f751cbdaaa5d.svg)](https://wakatime.com/@4c5205d5-0274-4334-b3c3-f751cbdaaa5d)
